@@ -26,5 +26,5 @@ Ecomverse, developed by Team MVP's, aims to solve the problem of fragmented onli
 To get started with Ecomverse, follow these steps:
 
 ### Installation
-1) Open the Zip file
+1) Open the Zip file in the "Build" folder
 2) Install using the apk
